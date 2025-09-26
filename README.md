@@ -8,3 +8,6 @@ the same name env.
 
 # then 
 copy this conda_auto_env to your ~/.bashrc and source it
+
+#finaly
+useless sh , conda is not good then pyenv
